@@ -7,6 +7,7 @@
           <token>df9bdf9edfcedf9bdf93dfcbdf99df99dfcfdf9ddfc8df9adfc9df9adfcbdf9cdf92df9adf9bdf9ddfcbdf9adf9fdf9ddf9adf92df9ddfcbdf9ddf98dfc9df9adf9adf9adf9ddfc8df9fdf99df9edf9a</token>
           <option name="name" value="theskeleton" />
           <organizationKey>codenergic</organizationKey>
+          <enableNotifications>true</enableNotifications>
         </SonarQubeServer>
       </list>
     </option>
