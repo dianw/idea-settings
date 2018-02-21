@@ -1,16 +1,6 @@
 <code_scheme name="Default" version="173">
   <codeStyleSettings language="JAVA">
     <arrangement>
-      <groups>
-        <group>
-          <type>GETTERS_AND_SETTERS</type>
-          <order>KEEP</order>
-        </group>
-        <group>
-          <type>OVERRIDDEN_METHODS</type>
-          <order>BY_NAME</order>
-        </group>
-      </groups>
       <rules>
         <section>
           <rule>
@@ -240,6 +230,28 @@
         <section>
           <rule>
             <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>equals</NAME>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>hashCode</NAME>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
               <ENUM>true</ENUM>
             </match>
           </rule>
@@ -265,28 +277,6 @@
           <rule>
             <match>
               <CLASS>true</CLASS>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <METHOD>true</METHOD>
-                <NAME>equals</NAME>
-                <PUBLIC>true</PUBLIC>
-              </AND>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <METHOD>true</METHOD>
-                <NAME>hashCode</NAME>
-                <PUBLIC>true</PUBLIC>
-              </AND>
             </match>
           </rule>
         </section>
