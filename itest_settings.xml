@@ -1,0 +1,12 @@
+<application>
+  <component name="ItestPluginSettings">
+    <option name="categoryMap">
+      <map>
+        <entry key="NM" value="true" />
+        <entry key="SE" value="true" />
+        <entry key="FE" value="true" />
+        <entry key="PE" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
