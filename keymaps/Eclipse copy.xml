@@ -10,8 +10,32 @@
   <action id="Editor Delete">
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="MethodOverloadSwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="MethodOverloadSwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
