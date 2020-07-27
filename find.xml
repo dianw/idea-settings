@@ -13,8 +13,8 @@
     <mask>*.csv</mask>
     <mask>!*.log*</mask>
     <mask>*.yaml</mask>
-    <mask>*.xml</mask>
     <mask>*Config.java</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
