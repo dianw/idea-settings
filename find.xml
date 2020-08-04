@@ -11,10 +11,10 @@
     <mask>*.mf</mask>
     <mask>*.properties</mask>
     <mask>*.csv</mask>
-    <mask>!*.log*</mask>
     <mask>*.yaml</mask>
     <mask>*Config.java</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>!*.log*</mask>
   </component>
 </application>
