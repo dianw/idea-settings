@@ -13,8 +13,8 @@
     <mask>*Config.java</mask>
     <mask>!*.log*</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.yaml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
