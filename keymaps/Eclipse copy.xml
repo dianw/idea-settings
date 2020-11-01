@@ -45,4 +45,8 @@
     <keyboard-shortcut first-keystroke="alt delete" />
     <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt y" />
+    <keyboard-shortcut first-keystroke="meta alt y" />
+  </action>
 </keymap>
