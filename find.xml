@@ -16,8 +16,8 @@
     <mask>*.yaml</mask>
     <mask>pom.xml</mask>
     <mask>*.csv</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
