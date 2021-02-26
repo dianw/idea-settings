@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,9 +16,9 @@
     <mask>*.csv</mask>
     <mask>*.yml</mask>
     <mask>*.properties</mask>
-    <mask>*.yaml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
