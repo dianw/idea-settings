@@ -127,6 +127,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.csv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.andrey4623.rainbowcsv" />
+              <option name="myPluginName" value="Rainbow CSV" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cvp">
           <value>
             <plugin>
