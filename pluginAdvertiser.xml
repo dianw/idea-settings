@@ -112,6 +112,16 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="com.genuitec.codetogether.SessionRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Remote Run (CodeTogether)" pluginName="CodeTogether" pluginId="com.genuitec.codetogether" />
+                    </value>
+                  </entry>
+                  <entry key="com.genuitec.codetogether.TestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Remote Test (CodeTogether)" pluginName="CodeTogether" pluginId="com.genuitec.codetogether" />
+                    </value>
+                  </entry>
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
