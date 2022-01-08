@@ -6,6 +6,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".github/workflows" type="PLAIN_TEXT" />
+      <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
