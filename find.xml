@@ -3,13 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.mf" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.vm</mask>
     <mask>*.</mask>
-    <mask>*.mf</mask>
     <mask>*Config.java</mask>
     <mask>*processor.java</mask>
     <mask>*.yml</mask>
@@ -22,5 +21,6 @@
     <mask>*.yaml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.mf</mask>
   </component>
 </application>
