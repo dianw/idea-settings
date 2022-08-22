@@ -21,6 +21,7 @@
     <mask>*.yaml</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
+    <mask>*distributed-trace*.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
