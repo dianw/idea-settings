@@ -8,11 +8,11 @@
       <mapping pattern=".github/workflows" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
-      <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping pattern="spring.factories" type="Properties" />
       <mapping pattern="workflows" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
