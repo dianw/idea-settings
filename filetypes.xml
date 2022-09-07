@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="java_opts" type="AUTO_DETECTED" />
+      <mapping pattern="java_opts_8g" type="AUTO_DETECTED" />
       <mapping pattern="justfile" type="AUTO_DETECTED" />
+      <mapping pattern="java_opts_4g" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
