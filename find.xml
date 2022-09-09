@@ -13,7 +13,6 @@
     <mask>*.yml</mask>
     <mask>*.log</mask>
     <mask>!*.log.*</mask>
-    <mask>*.csv</mask>
     <mask>!*.log*</mask>
     <mask>pom.xml</mask>
     <mask>*.mf</mask>
@@ -22,5 +21,6 @@
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
